@@ -4,5 +4,5 @@
 
 ## Создан playbook в /etc/ansible/playbooks (/playbooks/dnsmasq.yml в проекте)
 
-## Применение:
+# Применение:
 ansible-playbook /etc/ansible/playbooks/dnsmasq.yml
